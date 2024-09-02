@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: mvnw
+  checksum: 5ea54ac67a83a3113b2c18b63be2c7cd36d20a6a016b455f1a73f5722a9ed6d1
+version: ""

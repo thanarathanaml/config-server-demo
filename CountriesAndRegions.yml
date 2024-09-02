@@ -1,0 +1,439 @@
+list:
+  countries:
+    - name: United States
+      code: US
+      regions:
+        - name: Alabama
+          code: AL
+        - name: Alaska
+          code: AK
+        - name: American Samoa
+          code: AS
+        - name: Arizona
+          code: AZ
+        - name: Arkansas
+          code: AR
+        - name: California
+          code: CA
+        - name: Colorado
+          code: CO
+        - name: Connecticut
+          code: CT
+        - name: Delaware
+          code: DE
+        - name: District of Columbia
+          code: DC
+        - name: Federated States of Micronesia
+          code: FM
+        - name: Florida
+          code: FL
+        - name: Georgia
+          code: GA
+        - name: Guam
+          code: GU
+        - name: Hawaii
+          code: HI
+        - name: Idaho
+          code: ID
+        - name: Illinois
+          code: IL
+        - name: Indiana
+          code: IN
+        - name: Iowa
+          code: IA
+        - name: Kansas
+          code: KS
+        - name: Kentucky
+          code: KY
+        - name: Louisiana
+          code: LA
+        - name: Maine
+          code: ME
+        - name: Marshall Islands
+          code: MH
+        - name: Maryland
+          code: MD
+        - name: Massachusetts
+          code: MA
+        - name: Michigan
+          code: MI
+        - name: Minnesota
+          code: MN
+        - name: Mississippi
+          code: MS
+        - name: Missouri
+          code: MO
+        - name: Montana
+          code: MT
+        - name: Nebraska
+          code: NE
+        - name: Nevada
+          code: NV
+        - name: New Hampshire
+          code: NH
+        - name: New Jersey
+          code: NJ
+        - name: New Mexico
+          code: NM
+        - name: New York
+          code: NY
+        - name: North Carolina
+          code: NC
+        - name: North Dakota
+          code: ND
+        - name: Northern Mariana Islands
+          code: MP
+        - name: Ohio
+          code: OH
+        - name: Oklahoma
+          code: OK
+        - name: Oregon
+          code: OR
+        - name: Palau
+          code: PW
+        - name: Pennsylvania
+          code: PA
+        - name: Puerto Rico
+          code: PR
+        - name: Rhode Island
+          code: RI
+        - name: South Carolina
+          code: SC
+        - name: South Dakota
+          code: SD
+        - name: Tennessee
+          code: TN
+        - name: Texas
+          code: TX
+        - name: Utah
+          code: UT
+        - name: Vermont
+          code: VT
+        - name: Virgin Islands
+          code: VI
+        - name: Virginia
+          code: VA
+        - name: Washington
+          code: WA
+        - name: West Virginia
+          code: WV
+        - name: Wisconsin
+          code: WI
+        - name: Wyoming
+          code: WY
+        - name: Armed Forces Europe
+          code: AE
+        - name: Armed Forces Americas
+          code: AA
+        - name: Armed Forces Pacific
+          code: AP
+    - name: Great Britain
+      code: GB|UK
+      regions:
+        - code: AM
+          name: Armagh
+        - code: AR
+          name: Ards
+        - code: AT
+          name: Antrim
+        - code: BA
+          name: Ballymena
+        - code: BB
+          name: Blackburn
+        - code: BE
+          name: Bedfordshire
+        - code: BF
+          name: Bracknell Forest
+        - code: BH
+          name: Brighton & Hove
+        - code: BK
+          name: Berkshire
+        - code: BL
+          name: Belfast
+        - code: BM
+          name: Bournemouth
+        - code: BN
+          name: Banbridge
+        - code: BO
+          name: Borders
+        - code: BP
+          name: Blackpool
+        - code: BR
+          name: Bristol
+        - code: BS
+          name: Bath&NthEstSomerset
+        - code: BU
+          name: Buckinghamshire
+        - code: BY
+          name: Ballymoney
+        - code: CA
+          name: Cambridgeshire
+        - code: CE
+          name: Central
+        - code: CG
+          name: Craigavon
+        - code: CH
+          name: Cheshire
+        - code: CI
+          name: Coleraine
+        - code: CK
+          name: Cookstown
+        - code: CL
+          name: Clwyd
+        - code: CO
+          name: Cornwall
+        - code: CR
+          name: Carrickfergus
+        - code: CS
+          name: Castlereagh
+        - code: CU
+          name: Cumbria
+        - code: CV
+          name: Cleveland
+        - code: DB
+          name: Derbyshire
+        - code: DF
+          name: Dumfries a. Galloway
+        - code: DG
+          name: Dungannon
+        - code: DL
+          name: Darlington
+        - code: DN
+          name: Down
+        - code: DO
+          name: Dorset
+        - code: DU
+          name: Durham
+        - code: DV
+          name: Devon
+        - code: DY
+          name: Dyfed
+        - code: ER
+          name: East Riding
+        - code: ES
+          name: Essex
+        - code: FI
+          name: Fife
+        - code: FM
+          name: Fermanagh
+        - code: GL
+          name: Gloucestershire
+        - code: GM
+          name: Greater Manchester
+        - code: GR
+          name: Grampian
+        - code: GS
+          name: Sth. Gloucestershire
+        - code: GW
+          name: Gwent
+        - code: GY
+          name: Gwynedd
+        - code: HA
+          name: Hampshire
+        - code: HI
+          name: Highland
+        - code: HL
+          name: Halton
+        - code: HR
+          name: Hartlepool
+        - code: HT
+          name: Hertfordshire
+        - code: HW
+          name: Hereford and Worcs.
+        - code: IW
+          name: Isle of Wight
+        - code: KE
+          name: Kent
+        - code: KH
+          name: Kingston-upon-Hull
+        - code: LA
+          name: Lancashire
+        - code: LC
+          name: Leicester City
+        - code: LD
+          name: Londonderry
+        - code: LE
+          name: Leicestershire
+        - code: LI
+          name: Lincolnshire
+        - code: LM
+          name: Limavady
+        - code: LO
+          name: Greater London
+        - code: LR
+          name: Larne
+        - code: LS
+          name: Lisburn
+        - code: LT
+          name: Lothian
+        - code: LU
+          name: Luton
+        - code: MA
+          name: Magherafelt
+        - code: MG
+          name: Mid Glamorgan
+        - code: MI
+          name: Middlesbrough
+        - code: MK
+          name: Milton Keynes
+        - code: MO
+          name: Moyle
+        - code: MY
+          name: Merseyside
+        - code: NA
+          name: Newtownabbey
+        - code: NB
+          name: Newbury
+        - code: NC
+          name: Nottingham City
+        - code: ND
+          name: North Down
+        - code: NE
+          name: NthEast Lincolnshire
+        - code: NH
+          name: Northamptonshire
+        - code: NK
+          name: Norfolk
+        - code: NL
+          name: North Lincolnshire
+        - code: NM
+          name: Newry and Mourne
+        - code: NS
+          name: North Somerset
+        - code: NT
+          name: Nottinghamshire
+        - code: NU
+          name: Northumberland
+        - code: OM
+          name: Omagh
+        - code: OR
+          name: Orkney
+        - code: OX
+          name: Oxfordshire
+        - code: PB
+          name: Peterborough
+        - code: PL
+          name: Poole
+        - code: PM
+          name: Portsmouth
+        - code: PO
+          name: Powys
+        - code: PY
+          name: Plymouth
+        - code: RD
+          name: Redcar and Cleveland
+        - code: RE
+          name: Reading
+        - code: RM
+          name: Rochester up. Medway
+        - code: RU
+          name: Rutland
+        - code: SC
+          name: Strathclyde
+        - code: SD
+          name: Southend
+        - code: SE
+          name: East Sussex
+        - code: SG
+          name: South Glamorgan
+        - code: SH
+          name: Shropshire
+        - code: SK
+          name: Suffolk
+        - code: SL
+          name: Shetland
+        - code: SN
+          name: Stockton-on-Tees
+        - code: SO
+          name: Somerset
+        - code: SP
+          name: Southampton
+        - code: SR
+          name: Strabane
+        - code: ST
+          name: Staffordshire
+        - code: SU
+          name: Slough
+        - code: SW
+          name: West Sussex
+        - code: SY
+          name: Surrey
+        - code: TA
+          name: Tayside
+        - code: TD
+          name: Thamesdown
+        - code: TH
+          name: Thurrock
+        - code: TO
+          name: Torbay
+        - code: TW
+          name: Tyne and Wear
+        - code: TY
+          name: Tyrone
+        - code: WA
+          name: Warwickshire
+        - code: WC
+          name: Worcestershire
+        - code: WD
+          name: Windsor & Maidenhead
+        - code: WG
+          name: West Glamorgan
+        - code: WI
+          name: Wiltshire
+        - code: WL
+          name: Western Isles
+        - code: WM
+          name: West Midlands
+        - code: WO
+          name: Wokingham
+        - code: WR
+          name: Wrekin
+        - code: WT
+          name: Warrington
+        - code: YK
+          name: York
+        - code: YN
+          name: North Yorkshire
+        - code: YS
+          name: South Yorkshire
+        - code: YW
+          name: West Yorkshire
+    - name: Canada
+      code: CA
+      regions:
+        - name: Alberta
+          code: AB
+        - name: British Columbia
+          code: BC
+        - name: Manitoba
+          code: MB
+        - name: Newfoundland and Labrador
+          code: NL
+        - name: Nova Scotia
+          code: NS
+        - name: Ontario
+          code: "ON"
+        - name: Quebec
+          code: QC
+        - name: Saskatchewan
+          code: SK
+        - name: New Brunswick
+          code: NB
+        - name: Prince Edward Island
+          code: PE
+        - name: Northwest Territories
+          code: NT
+        - name: Nunavut
+          code: NU
+        - name: Yukon
+          code: YT
+    - name: Jersey
+      code: JE
+      rules: IGNORE_REGION_CHECK
+    - name: Guyana
+      code: GY
+      regions:
+      rules: IGNORE_REGION_CHECK
+    - name: Isle of Man
+      code: IM
+      rules: IGNORE_REGION_CHECK
